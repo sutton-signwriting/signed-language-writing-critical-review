@@ -38,19 +38,13 @@ That question keeps the reviews disciplined. A proposal may solve notation witho
 
 Begin with the shared framework and baseline reviews:
 
-1. [Signed Language Writing Critical Review Series Overview](entries/overview/essay.md)
-2. [Full-Path Critique Framework for Signed-Language Writing and Text Infrastructure](entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/essay.md)
-3. [Sutton SignWriting and Formal SignWriting Through the Framework](entries/sutton-signwriting-and-formal-signwriting-through-the-framework/essay.md)
-4. [A Layer-Based Evaluation of Signed Language Writing Systems](entries/a-layer-based-evaluation-of-signed-language-writing-systems/essay.md)
+1. [Signed Language Writing Critical Review Series Overview](entries/overview/essay.md) - public orientation for the review series
+2. [Full-Path Critique Framework for Signed-Language Writing and Text Infrastructure](entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/essay.md) - reusable evaluation framework
+3. [Sutton SignWriting and Formal SignWriting Through the Framework](entries/sutton-signwriting-and-formal-signwriting-through-the-framework/essay.md) - internal baseline review
+4. [A Layer-Based Evaluation of Signed Language Writing Systems](entries/a-layer-based-evaluation-of-signed-language-writing-systems/essay.md) - bounded comparison across systems
 
-Then read the individual reviews and the constructive synthesis.
+Then read individual reviews and the constructive synthesis as needed:
 
-## Contents
-
-- [Overview](entries/overview/essay.md) - public orientation for the review series
-- [Full-Path Critique Framework](entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/essay.md) - reusable evaluation framework; companions: [Review Procedure](entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/review-procedure.md), [Reviewer Worksheet](entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/worksheet.md)
-- [Sutton SignWriting and Formal SignWriting Through the Framework](entries/sutton-signwriting-and-formal-signwriting-through-the-framework/essay.md) - internal baseline review
-- [A Layer-Based Evaluation of Signed Language Writing Systems](entries/a-layer-based-evaluation-of-signed-language-writing-systems/essay.md) - bounded comparison across systems; companion: [Comparative Matrix](entries/a-layer-based-evaluation-of-signed-language-writing-systems/comparative-matrix.md)
 - [A Review of Official Unicode SignWriting](entries/official-unicode-signwriting-the-character-problem-and-the-written-sign-problem/essay.md) - standards review of official Unicode SignWriting
 - [Grushkin 2017](entries/grushkin-2017-writing-signed-languages-what-for-what-form/essay.md) - review of writing-form arguments
 - [Filhol 2020](entries/filhol-2020-a-human-editable-sign-language-representation/essay.md) - review of AZee and editable representation
@@ -58,6 +52,16 @@ Then read the individual reviews and the constructive synthesis.
 - [Martin 2000](entries/martin-2000-from-notation-to-writing/essay.md) - review of notation-to-writing arguments
 - [Meletis and Dürscheid 2022](entries/meletis-and-durscheid-2022-writing-systems-and-their-use/essay.md) - review of general writing-system theory; companion: [Signed Writing as a Pressure Test for General Writing Theory](entries/meletis-and-durscheid-2022-writing-systems-and-their-use/signed-writing-as-a-pressure-test-for-general-writing-theory.md)
 - [From Critique to Construction](entries/from-critique-to-construction-priorities-for-signed-language-writing-infrastructure/essay.md) - constructive synthesis for research, tooling, standards, education, and infrastructure
+
+## Repository Files
+
+The reading sequence above contains the main framework documents, individual reviews, and synthesis. Additional repository files include:
+
+- [Start Here Note](entries/overview/start-here.md) - short companion orientation to the overview
+- [Review Procedure](entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/review-procedure.md) - companion procedure for using the full-path framework
+- [Reviewer Worksheet](entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/worksheet.md) - companion worksheet for structured review
+- [Comparative Matrix](entries/a-layer-based-evaluation-of-signed-language-writing-systems/comparative-matrix.md) - companion matrix for the layer-based evaluation
+- [Signed Writing as a Pressure Test for General Writing Theory](entries/meletis-and-durscheid-2022-writing-systems-and-their-use/signed-writing-as-a-pressure-test-for-general-writing-theory.md) - companion to the Meletis and Dürscheid review
 - [Publishing Notes](publishing.md) - release metadata, citation posture, and artifact register
 
 ## Review Commitments
