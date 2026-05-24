@@ -80,7 +80,9 @@ Use the series DOI when citing the review series as a whole. Use an artifact DOI
 
 ## Platform Context
 
-This repository is one of eight series in the Sutton SignWriting platform release. It tests the platform's writing, encoding, standards, and infrastructure claims against external literature and proposals.
+This repository is one of eight series in the Sutton SignWriting platform release. The platform-level record is maintained in the [Sutton SignWriting Platform Record](https://github.com/sutton-signwriting/platform-record) repository.
+
+It tests the platform's writing, encoding, standards, and infrastructure claims against external literature and proposals.
 
 ## License
 
