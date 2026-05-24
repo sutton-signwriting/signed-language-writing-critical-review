@@ -39,9 +39,13 @@ That question keeps the reviews disciplined. A proposal may solve notation witho
 Begin with the shared framework and baseline reviews:
 
 1. [Signed Language Writing Critical Review Series Overview](entries/overview/essay.md) - public orientation for the review series
+   - companion: [Start Here Note](entries/overview/start-here.md)
 2. [Full-Path Critique Framework for Signed-Language Writing and Text Infrastructure](entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/essay.md) - reusable evaluation framework
+   - companion: [Review Procedure](entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/review-procedure.md)
+   - companion: [Reviewer Worksheet](entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/worksheet.md)
 3. [Sutton SignWriting and Formal SignWriting Through the Framework](entries/sutton-signwriting-and-formal-signwriting-through-the-framework/essay.md) - internal baseline review
 4. [A Layer-Based Evaluation of Signed Language Writing Systems](entries/a-layer-based-evaluation-of-signed-language-writing-systems/essay.md) - bounded comparison across systems
+   - companion: [Comparative Matrix](entries/a-layer-based-evaluation-of-signed-language-writing-systems/comparative-matrix.md)
 
 Then read individual reviews and the constructive synthesis as needed:
 
@@ -50,18 +54,14 @@ Then read individual reviews and the constructive synthesis as needed:
 - [Filhol 2020](entries/filhol-2020-a-human-editable-sign-language-representation/essay.md) - review of AZee and editable representation
 - [Thiessen 2011](entries/thiessen-2011-a-grammar-of-signwriting/essay.md) - review of grammar and SignWriting description
 - [Martin 2000](entries/martin-2000-from-notation-to-writing/essay.md) - review of notation-to-writing arguments
-- [Meletis and Dürscheid 2022](entries/meletis-and-durscheid-2022-writing-systems-and-their-use/essay.md) - review of general writing-system theory; companion: [Signed Writing as a Pressure Test for General Writing Theory](entries/meletis-and-durscheid-2022-writing-systems-and-their-use/signed-writing-as-a-pressure-test-for-general-writing-theory.md)
+- [Meletis and Dürscheid 2022](entries/meletis-and-durscheid-2022-writing-systems-and-their-use/essay.md) - review of general writing-system theory
+  - companion: [Signed Writing as a Pressure Test for General Writing Theory](entries/meletis-and-durscheid-2022-writing-systems-and-their-use/signed-writing-as-a-pressure-test-for-general-writing-theory.md)
 - [From Critique to Construction](entries/from-critique-to-construction-priorities-for-signed-language-writing-infrastructure/essay.md) - constructive synthesis for research, tooling, standards, education, and infrastructure
 
 ## Repository Files
 
-The reading sequence above contains the main framework documents, individual reviews, and synthesis. Additional repository files include:
+The reading sequence above contains the main framework documents, companion review materials, individual reviews, and synthesis. Additional repository files include:
 
-- [Start Here Note](entries/overview/start-here.md) - short companion orientation to the overview
-- [Review Procedure](entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/review-procedure.md) - companion procedure for using the full-path framework
-- [Reviewer Worksheet](entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/worksheet.md) - companion worksheet for structured review
-- [Comparative Matrix](entries/a-layer-based-evaluation-of-signed-language-writing-systems/comparative-matrix.md) - companion matrix for the layer-based evaluation
-- [Signed Writing as a Pressure Test for General Writing Theory](entries/meletis-and-durscheid-2022-writing-systems-and-their-use/signed-writing-as-a-pressure-test-for-general-writing-theory.md) - companion to the Meletis and Dürscheid review
 - [Publishing Notes](publishing.md) - release metadata, citation posture, and artifact register
 
 ## Review Commitments
